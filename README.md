@@ -1,6 +1,8 @@
-# webtracker server.
+# Web usage tracker backend app
 
-Web activity tracker backend app
+Backend for chrome extension to track internet browsing habits
+
+Extension repo: https://github.com/Caranea/webUsageTracker
 
 ### Version: 1.0.0
 
@@ -16,4 +18,7 @@ $ npm start
 $ npm run dev
 
 # Visit http://localhost:5000
+
+#unit tests:
+$ npm run test:unit
 ```
