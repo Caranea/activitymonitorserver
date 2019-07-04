@@ -1,4 +1,4 @@
-# Web usage tracker backend app
+# Web usage tracker backend
 
 Backend for chrome extension to track internet browsing habits
 
@@ -19,6 +19,6 @@ $ npm run dev
 
 # Visit http://localhost:5000
 
-#unit tests:
+# Unit tests:
 $ npm run test:unit
 ```
